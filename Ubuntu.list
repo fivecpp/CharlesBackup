@@ -1,3 +1,4 @@
+acct
 acpi
 acpid
 acpi-support
@@ -101,6 +102,7 @@ libsdl2-dev
 libstdc++-5-doc
 libstdc++-6-doc
 libyaml-dev
+lnav
 lolcat
 lrzsz
 lua5.3
@@ -147,6 +149,7 @@ p7zip
 pandoc
 pandoc-citeproc
 papirus-icon-theme
+pdfgrep
 php
 pi
 pinta
@@ -208,6 +211,7 @@ ufraw
 uget
 ultra-flat-icons
 unar
+unattended-upgrades
 unrar
 unzip
 vim-autopep8
