@@ -7,3 +7,5 @@ abbr tfpy 'cd ~/Workspace/own/Python-Scripts/src/MachineLearning/TensorFlow/;ls'
 abbr mlpy 'cd ~/Workspace/own/Python-Scripts/src/MachineLearning/;ls'
 
 abbr prj 'cd ~/Workspace/official/drlff/;ls'
+
+abbr notes 'cd ~/Workspace/own/Notes;ls'

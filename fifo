@@ -4,24 +4,14 @@
 echo '如何成为优秀的开发人员：
 
 目标->
-        短期->下周周末做完项目
+        短期->本周完成tf阅读，下周完成PPO
         中期->一年内把想法实现并发论文；考TG，去实习
         长期->毕业前把深度学习学好
 
 学会评估权重->对目标有多大帮助
 严格执行权重
 
-
 '
-
-echo '紧迫任务：
-
-* 项目
-* 计算机控制作业
-
-
-'
-
 
 echo '学习计划：
 
@@ -30,14 +20,7 @@ echo '学习计划：
 2.5 数据结构
 3. 机器学习
 4. 理论：PRML/DEEP LEARNING
-5. 应用：Docker/K8s
-
-'
-echo '
-thereby
-
-trough
-thorough
+5. 应用：Docker/K8s/TF
 
 '
 
@@ -64,3 +47,5 @@ echo '
 
 songs='Never be alone
 '
+
+echo 'Opening HelloGithub...';google-chrome --app=https://hellogithub.com

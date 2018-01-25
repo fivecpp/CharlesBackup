@@ -157,6 +157,7 @@ plank
 plantuml
 powermgmt-base
 powertop
+progress
 pv
 python3-dev
 python3-matplotlib
@@ -237,4 +238,3 @@ ycmd
 youtube-dl
 zeal
 zim
-zsh
