@@ -1,20 +1,90 @@
 {
-
-    // Themes
-    "caret_style": "phase",
-    "color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-    "theme": "ayu-mirage.sublime-theme",
-
-    // File excludes
-    "file_exclude_patterns": ["*~*", "*.7z", "*.csl", "*.a", "*.aux", "*.bbl", "*.blg", "*.bst", "*.cfg", "*.class", "*.cls", "*.db", "*.dds", "*.dll", ".DS_Store", "*.dylib", "*.eot", "*.eps", "*.exe", "*.gif", "*.gz", "*.fls", "*.ico", "*.idb", "*.jar", "*.jpeg", "*.jpg", "*.*_latexmk", "*.lib", "*.log", "*.ncb", "*.o", "*.obj", "*.pdb", "*.pdf", "*.png", "*.psd", "*.pyc", "*.pyo", "*.rar", "*.sdf", "*.so", "*.sublime-workspace", "*.suo", "*.svg", "*.swf", "*.swp", "*.tar.*", "*.tga", "*.tgz", "*.toc", "*.ttf", "*.xoj", "*.xz", "*.zip"], 
-    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "__pycache__"],
-
-    // Editing configs
-    "translate_tabs_to_spaces": true,
-
-    // Vintage
-	"ignored_packages": ["Block Cursor Everywhere"],
-    "vintage_ctrl_keys": true,
-    "vintage_start_in_command_mode": true,
-
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeric"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"caret_style": "phase",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*~*",
+		"*.7z",
+		"*.csl",
+		"*.a",
+		"*.aux",
+		"*.bbl",
+		"*.blg",
+		"*.bst",
+		"*.cfg",
+		"*.class",
+		"*.cls",
+		"*.db",
+		"*.dds",
+		"*.dll",
+		".DS_Store",
+		"*.dylib",
+		"*.eot",
+		"*.eps",
+		"*.exe",
+		"*.gif",
+		"*.gz",
+		"*.fls",
+		"*.ico",
+		"*.idb",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.*_latexmk",
+		"*.lib",
+		"*.log",
+		"*.ncb",
+		"*.o",
+		"*.obj",
+		"*.pdb",
+		"*.pdf",
+		"*.png",
+		"*.psd",
+		"*.pyc",
+		"*.pyo",
+		"*.rar",
+		"*.sdf",
+		"*.so",
+		"*.sublime-workspace",
+		"*.suo",
+		"*.svg",
+		"*.swf",
+		"*.swp",
+		"*.tar.*",
+		"*.tga",
+		"*.tgz",
+		"*.toc",
+		"*.ttf",
+		"*.xoj",
+		"*.xz",
+		"*.zip"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__pycache__"
+	],
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true
 }

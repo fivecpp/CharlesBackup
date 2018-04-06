@@ -1,5 +1,5 @@
 {
-    "python_interpreter": "/home/charles/anaconda3/bin/python",
+    "python_interpreter": "~/anaconda3/bin/python",
     "auto_formatting": true,
 
     /*
@@ -11,7 +11,6 @@
         (for retina displays) and 'simple'. To see icons that will be used for
         each theme check gutter_icon_themes folder in Anaconda package.
     */
-    "anaconda_gutter_theme": "basic",
     "pep8_max_line_length": 150,
     "swallow_startup_errors": true,
 

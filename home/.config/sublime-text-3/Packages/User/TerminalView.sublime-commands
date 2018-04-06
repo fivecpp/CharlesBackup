@@ -1,0 +1,5 @@
+[{
+    "caption": "Terminal View: Open Fish-Shell Terminal",
+    "command": "terminal_view_open",
+    "args"   : {"title": "Terminal (fish)", "cmd": "/usr/bin/env fish"},
+  },]

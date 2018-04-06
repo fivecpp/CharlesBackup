@@ -1,0 +1,14 @@
+{
+    "high_visibility_enabled_by_default": false,
+ 
+    "bracket_styles": {
+
+
+    "default": {
+
+
+    "style": "outline"
+
+        }
+    }
+}
