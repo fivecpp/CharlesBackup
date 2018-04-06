@@ -1,8 +1,10 @@
 ppa:aacebedo/fasd
+ppa:fish-shell/release-2
 ppa:graphics-drivers/ppa
 ppa:hluk/copyq
 ppa:i2p-maintainers/i2p
 ppa:jonathonf/vim
+ppa:maarten-fonville/android-studio
 ppa:neovim-ppa/stable
 ppa:nilarimogard/webupd8
 ppa:noobslab/icons
@@ -15,5 +17,6 @@ ppa:saiarcot895/myppa
 ppa:samoilov-lex/aftl-stable
 ppa:teejee2008/ppa
 ppa:ubuntu-toolchain-r/test
+ppa:webupd8team/java
 ppa:webupd8team/sublime-text-3
 ppa:wine/wine-builds
