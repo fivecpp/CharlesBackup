@@ -1,0 +1,7 @@
+2018-04-13 17:09:27
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 119, in handler
+  File "/home/charles/.config/sublime-text-3/Packages/SFTP/sftp/commands.py", line 251, in run
+    key_prefix = ('-').join(chunks).decode('utf-8')
+TypeError: sequence item 0: expected str instance, bytes found

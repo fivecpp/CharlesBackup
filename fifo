@@ -43,27 +43,13 @@ echo '
 2. 画出误差与特征之间的关系图
 3. 训练路径
 4. 最优附近梯度下降寻优
+类似模拟退火的寻优
+找参数
 '
 
 songs='Never be alone
 '
 
 echo 'Opening HelloGithub...';google-chrome --app=https://hellogithub.com
-
-
-echo "
-questions:
-0. 所有运行信息，比如种群数量等（garffield所有输入配置）
-1. 运算具体时间
-2. 总共使用了多少核
-3. 总误差
-4. 单机单核运行，运行到同样效果记录具体花费的时间
-5. 总计算步数是多少（总共计算了多少次误差，可以用这个作为衡量指标）
-"
-
-echo "
-可以写的点：
-- 相同计算步数得到的结果
-- 训练完毕后的比较"
 
 
