@@ -51,7 +51,6 @@ gnome
 gnome-tweaks
 gparted
 graphviz
-guake
 htop
 i2p
 imagemagick
@@ -77,6 +76,7 @@ nextcloud-client
 nfs-utils
 nload
 nmap
+noto-fonts-cjk
 ntfs-3g
 numix-circle-icon-theme-git
 numlockx
@@ -109,6 +109,7 @@ screenfetch
 sl
 sshfs
 stellarium
+sublime-text-dev
 swi-prolog
 texlive-bibtexextra
 texlive-bin

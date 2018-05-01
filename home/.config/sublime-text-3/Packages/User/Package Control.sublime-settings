@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"DocBlockr_with_update_capability"
 	],
 	"installed_packages":
 	[
@@ -27,7 +26,6 @@
 		"DashDoc",
 		"DocBlockr",
 		"DocBlockr_Python",
-		"DocBlockr_with_update_capability",
 		"GitGutter",
 		"Gutter Color",
 		"HTML-CSS-JS Prettify",

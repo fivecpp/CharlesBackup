@@ -82,7 +82,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"DocBlockr_with_update_capability"
 	],
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,

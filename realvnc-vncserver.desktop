@@ -1,0 +1,28 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=VNC Server
+Name[de]=VNC Server
+Name[es]=VNC Server
+Name[fr]=VNC Server
+Name[pt]=VNC Server
+GenericName=VNC Server
+Comment=Connect to computers running VNC Server
+Comment[de]=Verbindung zu Computern mit aktivem VNC Server herstellen
+Comment[es]=Conectarse a equipos que ejecutan VNC Server
+Comment[fr]=Connecter les ordinateurs sous VNC Server
+Comment[pt]=Conecte-se a computadores com o VNC Server em execução
+Exec=vncserver-x11 %f
+Type=Application
+Icon=/usr/share/icons/hicolor/48x48/apps/vncserver.png
+Categories=Application;Network;RemoteAccess;
+MimeType=application/vnc-shortcut
+X-Ayatana-Desktop-Shortcuts=NewConnection
+
+[NewConnection Shortcut Group]
+Name=New Connection
+Name[de]=Neue Verbindung
+Name[es]=Nueva conexión
+Name[fr]=Nouvelle connexion
+Name[pt]=Nova conexão
+Exec=vncserver-x11
+TargetEnvironment=Unity
