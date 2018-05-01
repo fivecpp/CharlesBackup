@@ -1,4 +1,6 @@
 agnoster
+ansible
+archlinux
 argu
 autoproxy
 balias
@@ -16,7 +18,9 @@ fzf-autojump
 gi
 git-flow
 gityaw
+keychain
 kill-on-port
+last-working-dir
 license
 notify
 omf
