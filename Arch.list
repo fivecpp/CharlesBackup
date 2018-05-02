@@ -1,4 +1,3 @@
-aalib
 adobe-source-han-sans-cn-fonts
 adobe-source-han-serif-cn-fonts
 android-studio
@@ -57,6 +56,7 @@ imagemagick
 inkscape
 jq
 keychain
+lantern-bin
 latex2html
 libreoffice
 libreoffice-extension-texmaths
@@ -65,6 +65,7 @@ libreoffice-fresh-zh-cn
 lnav-git
 lolcat
 lrzsz
+lsof
 lyx
 man-pages-zh_cn
 mariadb
@@ -108,6 +109,7 @@ rust
 screenfetch
 sl
 sshfs
+steam
 stellarium
 sublime-text-dev
 swi-prolog
@@ -135,6 +137,7 @@ thefuck
 the_silver_searcher
 tig
 tmux
+tor-browser
 transmission-cli
 transmission-gtk
 tsocks
